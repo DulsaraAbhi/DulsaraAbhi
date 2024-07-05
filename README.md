@@ -1,3 +1,5 @@
+<p align="Center"> <img src=
+---
 <h1 align="center">Hi 👋, I'm Dulsara Abhiman</h1>
 <h3 align="center">A frontend developer from Sri Lanka.I'm using HTML,CSS and javascript to make website</h3>
 
@@ -14,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dulsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dulsara" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/dulsara](https://www.linkedin.com/in/dulsara-abhiman-yapa-abeywardena-777286297/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dulsara" height="30" width="40" /></a>
 <a href="https://instagram.com/_dulsara_a_y_a_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_dulsara_a_y_a_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/dulsara_a_y_a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dulsara_a_y_a" height="30" width="40" /></a>
 </p>
