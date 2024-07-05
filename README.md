@@ -1,10 +1,10 @@
 <p align="Center"> <img src="https://github.com/DulsaraAbhi/DulsaraAbhi/blob/main/code.gif" height="200" width="400"></p>
----
+
 <h1 align="center">Hi 👋, I'm Dulsara Abhiman</h1>
 <h3 align="center">A frontend developer from Sri Lanka.I'm using HTML,CSS and javascript to make website</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dulsaraabhi&label=Profile%20views&color=0e75b6&style=flat" alt="dulsaraabhi" /> </p>
-
+___
 
 - 🌱 I’m currently learning **React**
 
