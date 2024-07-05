@@ -1,4 +1,4 @@
-<p align="Center"> <img src="https://github.com/DulsaraAbhi/DulsaraAbhi/blob/main/coding-freak.gif" height="200" width="400"
+<p align="Center"> <img src="https://github.com/DulsaraAbhi/DulsaraAbhi/blob/main/coding-freak.gif" height="200" width="400"></p>
 ---
 <h1 align="center">Hi 👋, I'm Dulsara Abhiman</h1>
 <h3 align="center">A frontend developer from Sri Lanka.I'm using HTML,CSS and javascript to make website</h3>
